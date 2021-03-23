@@ -8,7 +8,7 @@
 </div>
 
 
-## MY interested in
+## Interested in
 - NlP
 - Recomedation System
 - Time Series
