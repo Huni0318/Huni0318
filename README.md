@@ -9,8 +9,8 @@
 
 
 ## Interested in
-- NlP
-- Recomedation System
+- NLP
+- Recomeder System
 - Time Series
 ## My Skills 😄
 <p align="center">
