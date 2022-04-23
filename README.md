@@ -10,7 +10,6 @@
 
 ## Interested in
 - GAN
-- multimodal
 - NLP
 ## My Skills 😄
 <p align="center">
