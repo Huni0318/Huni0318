@@ -9,7 +9,7 @@
 
 
 ## Interested in
-- 
+- Generative model
 
 ## My Skills 😄
 <p align="center">
